@@ -22,5 +22,5 @@ python setup.py sdist upload -r [remote-index-server]
 ```
 
 ## References
-https://pypi.org/project/pypiserver/
-https://www.linode.com/docs/guides/how-to-create-a-private-python-package-repository/
+* https://pypi.org/project/pypiserver/
+* https://www.linode.com/docs/guides/how-to-create-a-private-python-package-repository/
